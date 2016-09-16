@@ -1,0 +1,27 @@
+<TestData>
+    <FreshMMW>
+        <datasets>
+            <dataset>
+                <home_url>http://test-maxmywealth.weboapps.com/</home_url>
+                <name>Pratieeek</name>
+                <mobile>9970095070</mobile>
+                <password>pratik123!</password>
+                <repassword>pratik123!</repassword>   
+                <pin>411038</pin>
+                <city>pune</city>
+                <state>maharashtra</state>
+                <addp>bills</addp>
+                <streetadd>karves</streetadd>
+                <fass>umessh</fass>
+                <country>India</country>
+                <occupation>service</occupation>
+                <income>1</income>
+                <sow>services</sow>
+                <pans>bnkpb234567</pans>
+                <namepan>pratik</namepan>
+                <bnkname>hdfc</bnkname>
+                <bran>kothrud</bran>
+            </dataset>
+        </datasets>
+   </FreshMMW>
+</TestData>
